@@ -1,4 +1,7 @@
-### Hi there 👋
+### Luke Young (Lurch9229) 👋
+## Learning Python and Lua
+# Pack Developer for Poptracker
+
 
 <!--
 **lurch9229/lurch9229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
