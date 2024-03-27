@@ -1,7 +1,12 @@
-### Luke Young (Lurch9229) 👋
+# Luke Young (Lurch9229) 👋
 ## Learning Python and Lua
-# Pack Developer for Poptracker
+### Pack Developer for Poptracker
 
+I have been using lua and json for 5 years as a pack developer for a logic tracking program called [Poptracker](https://poptracker.github.io/)
+
+I also work on logic algorithms for game randomizers, and I am current working on creating an APWorld for [Archipelago](https://archipelago.gg/)
+
+Currently I am taking part in a skills workshop, learning Software Development, primarily using Python.
 
 <!--
 **lurch9229/lurch9229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
